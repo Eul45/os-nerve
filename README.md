@@ -67,6 +67,11 @@ nerve report --json | jq '.cpu.load'
 |-----------|---------|
 | <img src="assets/1.png" width="400"> | <img src="assets/3.png" width="400"> |
 
+| Top Processes (`nerve top`) | Network |
+|----------------------------|----------------------|
+| <img src="assets/top.png" width="400"> | <img src="assets/mem.png" width="400"> |
+
+
 ## 👤 Author
 
 **Eyuel Engida**
