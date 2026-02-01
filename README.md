@@ -63,9 +63,9 @@ nerve report --json | jq '.cpu.load'
 ```
 
 ---
-| Dashboard | Live mode | Options |
-|-----------|-----------|---------|
-| <img src="assets/1.png" width="400"> | <img src="assets/2.png" width="400"> | <img src="assets/3.png" width="400"> |
+| Dashboard | Options |
+|-----------|---------|
+| <img src="assets/1.png" width="400"> | <img src="assets/3.png" width="400"> |
 
 ## 👤 Author
 
