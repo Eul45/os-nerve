@@ -68,7 +68,7 @@ nerve report --json | jq '.cpu.load'
 
 | Dashboard | Live mode | Options |
 |-----------|-----------|---------|
-| ![Dashboard](assets/screenshot-dashboard.png) | ![Live mode](assets/screenshot-live.png) | ![Options](assets/screenshot-options.png) |
+| ![Dashboard](assets/1.png) | ![Live mode](assets/2.png) | ![Options](assets/3.png) |
 
 ---
 
