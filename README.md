@@ -70,3 +70,8 @@ nerve report --json | jq '.cpu.load'
 ## 👤 Author
 
 **Eyuel Engida**
+---
+
+## 📄 License
+
+MIT License
