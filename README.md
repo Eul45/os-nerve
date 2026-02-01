@@ -70,6 +70,3 @@ nerve report --json | jq '.cpu.load'
 ## 👤 Author
 
 **Eyuel Engida**
-
-- **GitHub:** [@Eul45](https://github.com/Eul45)
-- **Project:** [https://github.com/Eul45/os-nerve](https://github.com/Eul45/os-nerve)
